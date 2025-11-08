@@ -1,15 +1,15 @@
-# 🪙 Gold Price Prediction using Random Forest
+# Gold Price Prediction using Random Forest
 
 This project predicts **Gold Prices** based on historical financial indicators using a **Random Forest Regressor**. It includes data preprocessing, correlation analysis, model evaluation, and visualization of actual vs predicted values.
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 Gold prices fluctuate based on multiple economic factors. This project uses machine learning to analyze historical data and predict the gold price using key market indicators.
 
 ---
 
-## 🧩 Features
+## Features
 - Data loading and preprocessing  
 - Correlation analysis using a heatmap  
 - Model training with **Random Forest Regressor**  
@@ -18,7 +18,7 @@ Gold prices fluctuate based on multiple economic factors. This project uses mach
 
 ---
 
-## 🧰 Libraries Used
+## Libraries Used
 - **NumPy**  
 - **Pandas**  
 - **Matplotlib**  
@@ -27,7 +27,7 @@ Gold prices fluctuate based on multiple economic factors. This project uses mach
 
 ---
 
-## 🧠 Model
+## Model
 The model used is the **Random Forest Regressor**, which is an ensemble learning method that builds multiple decision trees and combines their results for more accurate predictions.
 
 ---
